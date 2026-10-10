@@ -1,0 +1,21 @@
+.parent {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+    height: 320px;
+    margin: auto;
+    border: 3px solid rgb(24, 17, 229);
+    margin-top: 40px;
+    justify-content: end;
+    align-items: flex-start;
+    background-color: rgb(255, 228, 195);
+    overflow: hidden;
+}
+.child {
+    background-color: rgb(135, 236, 236);
+    border: 4px rgb(93, 89, 89) solid;
+    
+}
+
